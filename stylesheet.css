@@ -1,0 +1,77 @@
+* {
+	font-family: "Times New Roman", Times, serif;
+	color: black;	
+	text-align: center;
+
+}
+
+body {
+
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+nav {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+td {
+	border: 5px;
+	border-style: dashed;
+	border-color: pink;
+}
+
+li {
+	display: inline;
+	padding: 25px;
+}
+
+.menuitem {
+		font-family: "sans-serif", sans, serif;
+
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+body {
+	background-color: blanchedalmond;
+}
+
+main{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+
+article{
+	background-color: #efefef;
+	padding: 0px;
+	margin: 10px;
+	width: 280px;
+	float: right;
+	border-style: dashed;
+	border-width: 2px;
+
+}
+
+title{
+	border: hotpink;
+	border-style: dashed;
+	margin: 10px;
+}
+
+li{
+	font-size: 15px;
+	margin: 10px;
+	list-style-type: circle;
+}
+
+
