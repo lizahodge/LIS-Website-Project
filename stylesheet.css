@@ -20,7 +20,6 @@ nav {
 }
 
 td {
-	font-family: "Times New Roman", Times, serif;
 	border: 5px;
 	border-style: dashed;
 	border-color: pink;
@@ -38,11 +37,7 @@ li {
 
 }
 
-section{
-	font-family:"Courier New", monospace;
-	overflow: auto;
-	height: 100%;
-}
+
 
 body {
 	font-family:"Courier New", monospace;
@@ -54,8 +49,16 @@ main{
 	background-color: #efefef;
 	padding: 10px;
 	margin: 10px;
+	background-color: blanchedalmond;
 
 }
+.mydarlingpink {
+	background-color: lightpink;
+}
+
+/*style="background-color: lightpink;"
+style="background-color: lightpink;"
+style="color: black" style="font-family: Arial, Helevetica, sans-serif;"*/
 
 
 article{
